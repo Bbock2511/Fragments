@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Fragments</string>
+    <string name="hello_blank_fragment">Hello world</string>
+    <string name="nameHint">Nome</string>
+    <string name="lastNameHint">Último nome</string>
+    <string name="ageInput">Idade</string>
+    <string name="saveUserButton">Salvar</string>
+</resources>
